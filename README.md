@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Fuyao Zhao
 
-- 🔭 I’m currently studing in USC
+- 🔭 I’m currently studying in USC
 - 🌱 I’m looking for a SDE intern job
 - 📫 How to reach me: fuyaozhao1018@gmail.com
 
